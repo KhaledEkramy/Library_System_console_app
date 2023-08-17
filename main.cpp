@@ -1,6 +1,5 @@
 // Still completing code only done the first two choices .
 // fix bugs in print by id and print by name function the order is not working good so run to remember where is the problem
-// just for commit
 #include <iostream>
 #include <string>
 using namespace std ;
